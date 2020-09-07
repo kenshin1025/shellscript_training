@@ -1,0 +1,2 @@
+# shellscript_training
+シェルスクリプトの問題をといて上げるリポジトリ
